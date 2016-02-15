@@ -18,3 +18,4 @@ Happy coding!
 The Cloud9 IDE team
 
 やらないかこれ！
+ああっあ、面倒くせーなぁ
